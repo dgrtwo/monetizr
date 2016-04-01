@@ -2,7 +2,7 @@
 
 
 
-### The monetizr package: bringing advertising to R
+## The monetizr package: bringing advertising to R
 
 The monetizr package lets you monetize an R package through advertisements.
 
